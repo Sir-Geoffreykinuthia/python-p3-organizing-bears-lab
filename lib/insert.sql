@@ -3,7 +3,7 @@
 
 
 INSERT INTO bears (name, age, sex, color, temperament, alive)
-VALUES(NULL,             1,"F",   "White",      "Tender",        0)
+VALUES(null,,             1,"F",   "White",      "Tender",        0)
       ("Black_Bear",    20,"M",   "Black",       "Aggresive",    1),
       ("Sloth_Bear",    14, "M",  "Gray",        "Playful",      1),
       ("Giant_Pand",    30, "F",  "White_Black", "Calm",         0),
